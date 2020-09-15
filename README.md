@@ -1,2 +1,2 @@
-# rsschool-cv
-# https://PavelLukyanovich.github.io/rsschool-cv/cv
+# https://github.com/PavelLukyanovich/rsschool-cv/cv
+
