@@ -1,2 +1,2 @@
-##### https://gthub.com/PavelLukyanovich/rsschool-cv
+##### https://github.com/PavelLukyanovich/rsschool-cv
 
