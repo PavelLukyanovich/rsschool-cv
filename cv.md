@@ -18,7 +18,7 @@
 >    - JDBC;
 >    - Servlets;
 >    - Maven;
-> (did not complete the final task);
+>* (did not complete the final task);
 >* I'm interest android development. I have some apps that was make myself;
 
 * Yuo can see my code here: https://github.com/PavelLukyanovich
