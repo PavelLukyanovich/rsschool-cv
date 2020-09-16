@@ -13,11 +13,11 @@
 >I finished: 
 >* Course on Udemy "Basics of programming-TIC-TAC-toe (using Java as an example)";
 >* Attended external EPAM courses Web development in java:
->  * Java core;
->  * SQL;
->  * JDBC;
->  * Servlets;
->  * Maven;
+>    - Java core;
+>    - SQL;
+>    - JDBC;
+>    - Servlets;
+>    - Maven;
 > (did not complete the final task);
 >* I'm interest android development. I have some apps that was make myself;
 
