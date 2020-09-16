@@ -12,13 +12,12 @@
 >####       Skils
 >I finished: 
 >* Course on Udemy "Basics of programming-TIC-TAC-toe (using Java as an example)";
->* Attended external EPAM courses Web development in java:
+>* Attended external EPAM courses Web development in java (did not complete the final task):
 >    - Java core;
 >    - SQL;
 >    - JDBC;
 >    - Servlets;
 >    - Maven;
->* (did not complete the final task);
 >* I'm interest android development. I have some apps that was make myself;
 
 * Yuo can see my code here: https://github.com/PavelLukyanovich
