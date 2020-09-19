@@ -1,0 +1,54 @@
+#div {
+	width: 80%;
+	margin: 0 auto;
+	height: auto;
+
+
+	background-color: #a3b5ac;
+}
+#vl {
+	border-left: 6px solid green;
+	height: 450px;
+	position: absolute;
+	left: 33%;
+	margin-left: -5px;
+	border-color: #000000;
+}
+#sectionHeader {
+	background-color: #000000;
+	border-radius: 50px;
+	color: #ffffff;
+	margin-left: 20%;
+	margin-right: 20%;
+	text-align: center;
+	font-size: 22px; 
+}
+#header {
+
+}
+#image {
+	margin-left: 70px;
+	border-style: groove;
+	border-width: 15px;
+	border-color: #000000;
+}
+#sectionInfo {
+	max-width: 300px;
+	margin-left: 10px;
+	text-align: left;
+}
+#sectionBody {
+	max-width: 65%;
+	margin-top: -300px;
+	margin-left: 30%;
+}
+h4 {
+	font-size: 20px;
+}
+h5 {
+	font-size: 16px;
+
+}
+p {
+	font-size: 15px;
+}
